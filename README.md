@@ -47,7 +47,8 @@ Graduado y titulado en ingeniería de sistemas, apasionado por las nuevas tecnol
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
   </a> 
-  🍃 Spring Boot
+  <!-- Spring -->
+  <a href="https://spring.io" target="_blank" rel="noreferrer" style="text-decoration: none; font-size: 18px; vertical-align: super; margin-left: 10px;">🍃 Spring Boot</a>
 </p>
 
 
