@@ -16,41 +16,40 @@ Graduado y titulado en ingeniería de sistemas, apasionado por las nuevas tecnol
 <h3 align="left">Herramientas:</h3>
 <p align="left"> 
   <!-- Java -->
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
+  <a href="https://java.com" target="_blank" rel="noreferrer"> 
+    <img src="https://shields.io" alt="java" height="35"/> 
   </a> 
-  <!-- Spring -->
+  <!-- Spring Boot -->
   <a href="https://spring.io" target="_blank" rel="noreferrer"> 
-    <img src="https://githubusercontent.com" alt="spring" width="40" height="40"/>
-    <img src="https://vectorlogo.zone" alt="spring" width="35" height="35"/>
+    <img src="https://shields.io" alt="spring" height="35"/> 
   </a>
   <!-- Docker -->
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
+  <a href="https://docker.com" target="_blank" rel="noreferrer"> 
+    <img src="https://shields.io" alt="docker" height="35"/> 
   </a> 
   <!-- PostgreSQL -->
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
+  <a href="https://postgresql.org" target="_blank" rel="noreferrer"> 
+    <img src="https://shields.io" alt="postgresql" height="35"/> 
   </a> 
   <!-- MySQL -->
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
+  <a href="https://mysql.com" target="_blank" rel="noreferrer"> 
+    <img src="https://shields.io" alt="mysql" height="35"/> 
   </a> 
   <!-- Oracle -->
-  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> 
+  <a href="https://oracle.com" target="_blank" rel="noreferrer"> 
+    <img src="https://shields.io" alt="oracle" height="35"/> 
   </a> 
   <!-- Postman -->
   <a href="https://postman.com" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
+    <img src="https://shields.io" alt="postman" height="35"/> 
   </a> 
   <!-- JavaScript -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+  <a href="https://mozilla.org" target="_blank" rel="noreferrer"> 
+    <img src="https://shields.io" alt="javascript" height="35"/> 
   </a> 
   <!-- TypeScript -->
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
+  <a href="https://typescriptlang.org" target="_blank" rel="noreferrer"> 
+    <img src="https://shields.io" alt="typescript" height="35"/> 
   </a> 
 </p>
 
