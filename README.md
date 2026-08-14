@@ -1,10 +1,10 @@
 <h1 align="center">Hola 👋, mi nombre es Robert</h1>
 <h3 align="center">Soy un apasionado Java Backend.</h3>
 
-<h3 align="left">Sobre mi:</h3>
+<h3 align="left">Sobre mí:</h3>
 Graduado y titulado en ingeniería de sistemas, apasionado por las nuevas tecnologías y el desarrollo de software. Además, soy un profesional de TI con habilidades sólidas en el ecosistema de Java y Spring. Busco oportunidades para desarrollar habilidades prácticas y contribuir al éxito de grandes proyectos empresariales.
 
-<h3 align="left">Otras tecnologias:</h3>
+<h3 align="left">Otras tecnologías:</h3>
 <ul>
   <li><b>Lenguajes:</b> Java, TypeScript, JavaScript</li>
   <li><b>Backend:</b> Spring Boot, Spring MVC, Spring Security, Hibernate / JPA</li>
@@ -53,8 +53,7 @@ Graduado y titulado en ingeniería de sistemas, apasionado por las nuevas tecnol
   </a> 
 </p>
 
-
 <h3 align="left">Idiomas:</h3>
 <ul>
-  <li>Ingles</li>
+  <li>Inglés</li>
 </ul>
