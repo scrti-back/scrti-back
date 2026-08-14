@@ -6,11 +6,11 @@ Graduado y titulado en ingeniería de sistemas, apasionado por las nuevas tecnol
 
 <h3 align="left">Otras tecnologias:</h3>
 <ul>
-  <li>* **Lenguajes:** Java, TypeScript, JavaScript</li>
-  <li>* **Backend:** Spring Boot, Spring MVC, Spring Security, Hibernate / JPA</li>
-  <li>* **Arquitectura & APIs:** RESTful APIs, Microservicios</li>
-  <li>* **Base de datos:** PostgreSQL, MySQL, Oracle SQL, MongoDB</li>
-  <li>* **Herramientas & Otros:** Maven, Kafka, OAuth2, MapStruct, JWT, Git/GitHub</li>
+<li><b>Lenguajes:</b> Java, TypeScript, JavaScript</li>
+<li><b>Backend:</b> Spring Boot, Spring MVC, Spring Security, Hibernate / JPA</li>
+<li><b>Arquitectura & APIs:</b> RESTful APIs, Microservicios</li>
+<li><b>Base de datos:</b> PostgreSQL, MySQL, Oracle SQL, MongoDB</li>
+<li><b>Herramientas & Otros:</b> Maven, Kafka, OAuth2, MapStruct, JWT, Git/GitHub</li>
 </ul>
 
 <h3 align="left">Contactos:</h3>
